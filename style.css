@@ -4,6 +4,28 @@ span {
 
 .introduction {
     margin: 40px;
-    padding-top: 50px;
+    font-size: 30px;
+    width: 50%;
+    height: 150px;
+
+    padding-top: 95px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 45px;
+    margin: 0 40px;
+}
+
+.photo {
+    margin-top: 25px;
 }
