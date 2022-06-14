@@ -1,0 +1,9 @@
+span {
+    color: orange;
+}
+
+.introduction {
+    margin: 40px;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
